@@ -1,5 +1,11 @@
 sample test2 file
 
+<<<<<<< HEAD
 //1st update in master branch
 
 // 2nd time update in master branch
+=======
+//adding this file in new 3rd branch and check the chages and all files added under 3rd branching 
+
+//updating this file in 3rd branch
+>>>>>>> 3rdbranch
