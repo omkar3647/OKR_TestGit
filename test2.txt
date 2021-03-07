@@ -1,1 +1,3 @@
 sample test2 file
+
+//adding this file in new 3rd branch and check the chages and all files added under 3rd branch
